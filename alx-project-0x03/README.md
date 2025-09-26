@@ -1,40 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Reactify TS: Mastering Advanced TypeScript in React
 
-## Getting Started
+## 📖 Overview
 
-First, run the development server:
+This project is a **Next.js application** called **Splash App** that demonstrates modern web development practices such as **shared layouts**, **component-based architecture**, **routing**, and **responsive design**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The application serves as a **foundation for building AI-powered features** with a clean and professional UI while following **industry best practices**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🎯 Learning Objectives
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+By completing this project, you will learn how to:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- Implement **shared layouts** using the **DRY (Don’t Repeat Yourself)** principle
+- Configure and use **Google Fonts** with Tailwind CSS
+- Implement **imperative routing** with Next.js
+- Organize code with proper **interface management**
+- Create **custom error pages** for better user experience
+- Structure React components for **reusability**
+- Work with **TypeScript** for type safety
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧩 Key Concepts
 
-To learn more about Next.js, take a look at the following resources:
+- **Layout Components**: Reusable `Header`, `Footer`, and `Layout` components
+- **Component Architecture**: Modular, reusable UI pieces (e.g., `Button`)
+- **Routing**: Declarative and imperative navigation with Next.js
+- **Styling**: Utility-first approach with **Tailwind CSS**
+- **TypeScript**: Using interfaces and advanced features for type safety
+- **Error Handling**: Custom **404** page for better UX
+- **Responsive Design**: Ensuring accessibility across devices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Tools and Libraries
 
-## Deploy on Vercel
+- [Next.js](https://nextjs.org/) – React framework with built-in routing and SSR
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [TypeScript](https://www.typescriptlang.org/) – Typed superset of JavaScript
+- [React Icons](https://react-icons.github.io/react-icons/) – Popular icon library for React
+- [Google Fonts](https://fonts.google.com/) – Web font service
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## 🌍 Real-World Use Case
+
+This project setup mimics real-world application development where:
+
+- Multiple pages share common layout elements
+- Applications need **consistent branding and navigation**
+- Teams require **organized, maintainable code**
+- Users expect **responsive design** across devices
+- Applications need **custom error handling** for better UX
