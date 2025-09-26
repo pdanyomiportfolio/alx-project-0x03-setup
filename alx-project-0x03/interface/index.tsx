@@ -11,7 +11,7 @@ export interface ButtonProps {
   action?: () => void;
 }
 
-// Interface for Layout component
+// Interface for Layout components
 import { ReactNode } from "react";
 export interface LayoutProps {
   children: ReactNode;
